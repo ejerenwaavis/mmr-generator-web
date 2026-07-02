@@ -1,0 +1,30 @@
+{
+  "name": "mmr-generator-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "concurrently \"nodemon server.js\" \"cd client && npm run dev\"",
+    "build": "cd client && npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "archiver": "^8.0.0",
+    "cors": "^2.8.6",
+    "csv-parse": "^7.0.1",
+    "dayjs": "^1.11.21",
+    "express": "^5.2.1",
+    "multer": "^2.2.0",
+    "pdf-lib": "^1.17.1",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.3",
+    "jest": "^30.4.2",
+    "nodemon": "^3.1.14"
+  }
+}

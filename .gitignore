@@ -1,0 +1,9 @@
+node_modules/
+client/node_modules/
+dist/
+client/dist/
+scratch/
+test-archiver.js
+test-archiver2.js
+.env
+.DS_Store
