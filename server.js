@@ -34,6 +34,11 @@ const uploadBatch = multer({ dest: 'uploads/' });
 
 // --- API ROUTES ---
 
+// Health check
+app.get('/api/health', (req, res) => {
+  res.status(200).json({ status: 'ok', timestamp: new Date().toISOString() });
+});
+
 // List signatures
 app.get('/api/signatures', (req, res) => {
   const files = fs.readdirSync(signaturesDir).filter(f => f.endsWith('.png') || f.endsWith('.jpg'));
