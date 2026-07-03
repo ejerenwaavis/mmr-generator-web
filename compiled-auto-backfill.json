@@ -1,0 +1,175 @@
+[
+  {
+    "unit": "86916",
+    "recordMonth": "2026-01",
+    "mileage": 318792,
+    "baselineMonth": "2025-10",
+    "baselineMileage": 310995,
+    "backfillMaintenance": {}
+  },
+  {
+    "unit": "87491",
+    "recordMonth": "2026-06",
+    "mileage": 253270,
+    "baselineMonth": "2025-12",
+    "baselineMileage": 236387,
+    "backfillMaintenance": {}
+  },
+  {
+    "unit": "202302",
+    "recordMonth": "2026-04",
+    "mileage": 317180,
+    "baselineMonth": "2025-12",
+    "baselineMileage": 304467,
+    "backfillMaintenance": {}
+  },
+  {
+    "unit": "317183",
+    "recordMonth": "2026-06",
+    "mileage": 190833,
+    "baselineMonth": "2024-05",
+    "baselineMileage": 84054,
+    "backfillMaintenance": {}
+  },
+  {
+    "unit": "402385",
+    "recordMonth": "2026-06",
+    "mileage": 269704,
+    "baselineMonth": "2025-08",
+    "baselineMileage": 240911,
+    "backfillMaintenance": {}
+  },
+  {
+    "unit": "403866",
+    "recordMonth": "2026-06",
+    "mileage": 443573,
+    "baselineMonth": "2025-12",
+    "baselineMileage": 418995,
+    "backfillMaintenance": {
+      "2026-01": [
+        {
+          "date": "01/15/2026",
+          "description": "backdoor repair"
+        }
+      ],
+      "2025-12": [
+        {
+          "date": "12/15/2025",
+          "description": "radiator repair"
+        }
+      ]
+    }
+  },
+  {
+    "unit": "411443",
+    "recordMonth": "2026-06",
+    "mileage": 266870,
+    "baselineMonth": "2025-12",
+    "baselineMileage": 245130,
+    "backfillMaintenance": {}
+  },
+  {
+    "unit": "411562",
+    "recordMonth": "2026-06",
+    "mileage": 277315,
+    "baselineMonth": "2025-12",
+    "baselineMileage": 250765,
+    "backfillMaintenance": {}
+  },
+  {
+    "unit": "412390",
+    "recordMonth": "2026-06",
+    "mileage": 130171,
+    "baselineMonth": "2025-12",
+    "baselineMileage": 114930,
+    "backfillMaintenance": {}
+  },
+  {
+    "unit": "414420",
+    "recordMonth": "2026-06",
+    "mileage": 205559,
+    "baselineMonth": "2025-12",
+    "baselineMileage": 184369,
+    "backfillMaintenance": {}
+  },
+  {
+    "unit": "415358",
+    "recordMonth": "2026-04",
+    "mileage": 299987,
+    "baselineMonth": "2025-12",
+    "baselineMileage": 211000,
+    "backfillMaintenance": {}
+  },
+  {
+    "unit": "419016",
+    "recordMonth": "2026-06",
+    "mileage": 175020,
+    "baselineMonth": "2025-12",
+    "baselineMileage": 155480,
+    "backfillMaintenance": {
+      "2026-01": [
+        {
+          "date": "01/25/2026",
+          "description": "glass replacement"
+        },
+        {
+          "date": "01/18/2026",
+          "description": "tire replacement"
+        }
+      ],
+      "2025-12": [
+        {
+          "date": "12/27/2025",
+          "description": "change tire and replace Miro"
+        }
+      ]
+    }
+  },
+  {
+    "unit": "436130",
+    "recordMonth": "2026-04",
+    "mileage": 101170,
+    "baselineMonth": "2025-11",
+    "baselineMileage": 81516,
+    "backfillMaintenance": {
+      "2025-11": [
+        {
+          "date": "11/08/2025",
+          "description": "brakes, roties rare g front oil change"
+        }
+      ]
+    }
+  },
+  {
+    "unit": "440940",
+    "recordMonth": "2026-06",
+    "mileage": 229347,
+    "baselineMonth": "2025-08",
+    "baselineMileage": 155003,
+    "backfillMaintenance": {}
+  },
+  {
+    "unit": "463449",
+    "recordMonth": "2026-06",
+    "mileage": 186969,
+    "baselineMonth": "2025-12",
+    "baselineMileage": 164252,
+    "backfillMaintenance": {}
+  },
+  {
+    "unit": "463455",
+    "recordMonth": "2026-06",
+    "mileage": 164796,
+    "baselineMonth": "2025-12",
+    "baselineMileage": 138500,
+    "backfillMaintenance": {}
+  },
+  {
+    "unit": "467974",
+    "recordMonth": "2026-06",
+    "mileage": 179442,
+    "baselineMonth": "2025-08",
+    "baselineMileage": 136021,
+    "backfillMaintenance": {}
+  }
+]

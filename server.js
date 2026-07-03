@@ -147,7 +147,7 @@ app.post('/api/generate-multiple', async (req, res) => {
       const monthLabel = formatRecordMonthLabel(record.recordMonth);
       const pdfBytes = await fillMmr(record, config, sigPath, templatePath, dateCompleted, monthLabel);
       
-      archive.append(Buffer.from(pdfBytes), { name: `MMR_${record.unit}_${record.recordMonth}.pdf` });
+      archive.append(Buffer.from(pdfBytes), { name: `${record.unit}/MMR_${record.unit}_${record.recordMonth}.pdf` });
     }
 
     await archive.finalize();

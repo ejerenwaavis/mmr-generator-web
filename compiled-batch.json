@@ -1,0 +1,571 @@
+[
+  {
+    "unit": "86916",
+    "recordMonth": "2026-01",
+    "mileage": 318792,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "86916",
+    "recordMonth": "2025-12",
+    "mileage": 197219,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "86916",
+    "recordMonth": "2025-11",
+    "mileage": 197219,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "86916",
+    "recordMonth": "2025-10",
+    "mileage": 317345,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "402385",
+    "recordMonth": "2026-02",
+    "mileage": 255607,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "402385",
+    "recordMonth": "2026-01",
+    "mileage": 264678,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "402385",
+    "recordMonth": "2025-12",
+    "mileage": 263257,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "402385",
+    "recordMonth": "2025-11",
+    "mileage": 261620,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "402385",
+    "recordMonth": "2025-08",
+    "mileage": 253102,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "436130",
+    "recordMonth": "2026-04",
+    "mileage": 101170,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "436130",
+    "recordMonth": "2026-02",
+    "mileage": 96209,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "436130",
+    "recordMonth": "2025-11",
+    "mileage": 91692,
+    "mileageSource": "actual",
+    "maintenancePerformed": true,
+    "outOfService": false,
+    "maintenance": [
+      {
+        "date": "11/08/2025",
+        "description": "brakes, roties rare g front oil change"
+      }
+    ]
+  },
+  {
+    "unit": "440940",
+    "recordMonth": "2026-04",
+    "mileage": 165892,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "440940",
+    "recordMonth": "2026-01",
+    "mileage": 222500,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "440940",
+    "recordMonth": "2025-12",
+    "mileage": 221205,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "440940",
+    "recordMonth": "2025-09",
+    "mileage": 216758,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "440940",
+    "recordMonth": "2025-08",
+    "mileage": 155003,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "467974",
+    "recordMonth": "2026-04",
+    "mileage": 147621,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "467974",
+    "recordMonth": "2026-01",
+    "mileage": 175184,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "467974",
+    "recordMonth": "2025-10",
+    "mileage": 170975,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "467974",
+    "recordMonth": "2025-08",
+    "mileage": 136021,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "412390",
+    "recordMonth": "2026-04",
+    "mileage": 121406,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "412390",
+    "recordMonth": "2026-02",
+    "mileage": 118084,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "412390",
+    "recordMonth": "2026-01",
+    "mileage": 123512,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "412390",
+    "recordMonth": "2025-12",
+    "mileage": 122158,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "317183",
+    "recordMonth": "2026-06",
+    "mileage": 190833,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "317183",
+    "recordMonth": "2026-05",
+    "mileage": 190264,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "317183",
+    "recordMonth": "2024-05",
+    "mileage": 183404,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "415358",
+    "recordMonth": "2026-04",
+    "mileage": 299987,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "415358",
+    "recordMonth": "2026-03",
+    "mileage": 299903,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "415358",
+    "recordMonth": "2026-01",
+    "mileage": 250100,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "415358",
+    "recordMonth": "2025-12",
+    "mileage": 211000,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "403866",
+    "recordMonth": "2026-06",
+    "mileage": 443573,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "403866",
+    "recordMonth": "2026-05",
+    "mileage": 443066,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "403866",
+    "recordMonth": "2026-04",
+    "mileage": 203816,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "403866",
+    "recordMonth": "2026-03",
+    "mileage": 202866,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "403866",
+    "recordMonth": "2026-02",
+    "mileage": 202104,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "403866",
+    "recordMonth": "2026-01",
+    "mileage": 439410,
+    "mileageSource": "actual",
+    "maintenancePerformed": true,
+    "outOfService": false,
+    "maintenance": [
+      {
+        "date": "01/15/2026",
+        "description": "backdoor repair"
+      }
+    ]
+  },
+  {
+    "unit": "403866",
+    "recordMonth": "2025-12",
+    "mileage": 438828,
+    "mileageSource": "actual",
+    "maintenancePerformed": true,
+    "outOfService": false,
+    "maintenance": [
+      {
+        "date": "12/15/2025",
+        "description": "radiator repair"
+      }
+    ]
+  },
+  {
+    "unit": "419016",
+    "recordMonth": "2026-04",
+    "mileage": 166038,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "419016",
+    "recordMonth": "2026-01",
+    "mileage": 167219,
+    "mileageSource": "actual",
+    "maintenancePerformed": true,
+    "outOfService": false,
+    "maintenance": [
+      {
+        "date": "01/25/2026",
+        "description": "glass replacement"
+      },
+      {
+        "date": "01/18/2026",
+        "description": "tire replacement"
+      }
+    ]
+  },
+  {
+    "unit": "419016",
+    "recordMonth": "2025-12",
+    "mileage": 166079,
+    "mileageSource": "actual",
+    "maintenancePerformed": true,
+    "outOfService": false,
+    "maintenance": [
+      {
+        "date": "12/27/2025",
+        "description": "change tire and replace Miro"
+      }
+    ]
+  },
+  {
+    "unit": "202302",
+    "recordMonth": "2026-04",
+    "mileage": 317180,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "202302",
+    "recordMonth": "2026-01",
+    "mileage": 319257,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "202302",
+    "recordMonth": "2025-12",
+    "mileage": 319257,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "87491",
+    "recordMonth": "2026-06",
+    "mileage": 253270,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "87491",
+    "recordMonth": "2026-04",
+    "mileage": 254089,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "87491",
+    "recordMonth": "2026-03",
+    "mileage": 253296,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "87491",
+    "recordMonth": "2026-01",
+    "mileage": 250010,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "87491",
+    "recordMonth": "2025-12",
+    "mileage": 249325,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "411562",
+    "recordMonth": "2026-06",
+    "mileage": 277315,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "419016",
+    "recordMonth": "2026-06",
+    "mileage": 175020,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "411443",
+    "recordMonth": "2026-06",
+    "mileage": 266870,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "414420",
+    "recordMonth": "2026-06",
+    "mileage": 205559,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "402385",
+    "recordMonth": "2026-06",
+    "mileage": 269704,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "440940",
+    "recordMonth": "2026-06",
+    "mileage": 229347,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "467974",
+    "recordMonth": "2026-06",
+    "mileage": 179442,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "412390",
+    "recordMonth": "2026-06",
+    "mileage": 130171,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "463449",
+    "recordMonth": "2026-06",
+    "mileage": 186969,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  },
+  {
+    "unit": "463455",
+    "recordMonth": "2026-06",
+    "mileage": 164796,
+    "mileageSource": "actual",
+    "maintenancePerformed": false,
+    "outOfService": false,
+    "maintenance": []
+  }
+]
