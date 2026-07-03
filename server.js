@@ -124,6 +124,39 @@ app.post('/api/generate-batch', uploadBatch.single('file'), async (req, res) => 
   }
 });
 
+// Generate multiple MMRs from JSON payload (for auto-backfill)
+app.post('/api/generate-multiple', async (req, res) => {
+  try {
+    const { records: rawRecords, signatureFilename, applySignature, companyName, domicile } = req.body;
+    if (!rawRecords || !Array.isArray(rawRecords)) return res.status(400).send('No records provided.');
+
+    const sigPath = signatureFilename ? path.join(signaturesDir, signatureFilename) : null;
+    const records = rawRecords.map(r => validateRecord(r));
+
+    res.setHeader('Content-Type', 'application/zip');
+    res.setHeader('Content-Disposition', 'attachment; filename="MMR_AutoBackfill.zip"');
+
+    const archive = new ZipArchive({ zlib: { level: 9 } });
+    archive.pipe(res);
+
+    for (const record of records) {
+      record.companyName = companyName;
+      record.applySignature = applySignature;
+      record.domicile = domicile;
+      const dateCompleted = getDateCompleted(record.recordMonth, config.dateCompletedStrategy);
+      const monthLabel = formatRecordMonthLabel(record.recordMonth);
+      const pdfBytes = await fillMmr(record, config, sigPath, templatePath, dateCompleted, monthLabel);
+      
+      archive.append(Buffer.from(pdfBytes), { name: `MMR_${record.unit}_${record.recordMonth}.pdf` });
+    }
+
+    await archive.finalize();
+  } catch (err) {
+    console.error(err);
+    res.status(400).json({ error: err.message });
+  }
+});
+
 // Fallback for React Router (if needed)
 app.use((req, res, next) => {
   if (req.method === 'GET') {
